@@ -27,4 +27,4 @@ dotnet BlockChain.dll 6002 Test2
 Change history
 --------------
 
-See the [Changelog](https://github.com/SeppPenner/BlockChain/blob/master/Changelog.md).
+See the [Changelog](https://github.com/philmalv129/BlockChain/blob/master/Changelog.md).
